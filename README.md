@@ -1,6 +1,3 @@
-![sd2psXtd Logo](doc/Logo.png)
-*Logo by Berion ❤️*
-
 # sd2psXtd Game2Folder.ini
 
 This repository offers a pre-compiled Game2Folder.ini including all (I think) ps1 games. The list includes region variants, merge 2+ disc games, but excludes demos and prototypes.
